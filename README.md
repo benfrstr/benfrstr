@@ -16,7 +16,8 @@ Aerospace Engineering Student @ Exeter College
 
 ### Developer Environment
 <p align="left">
-<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/benfrstr/benfrstr/main/assets/apple-original.svg" width="36" height="36" alt="macOS" /></a>
+<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/benfrstr/benfrstr/main/assets/homebrew-original.svg" width="36" height="36" alt="macOS" /></a>
+<a href="https://brew.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/benfrstr/benfrstr/main/assets/homebrew-original.svg" width="36" height="36" alt="Homebrew" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/benfrstr/benfrstr/main/assets/intellijidea-original.svg" width="36" height="36" alt="IntelliJ IDEA" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/benfrstr/benfrstr/main/assets/vscode-original.svg" width="36" height="36" alt="Visual Studio Code" /></a>
 </p>
