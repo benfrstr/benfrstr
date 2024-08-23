@@ -1,11 +1,11 @@
 Hey 👋 I'm Ben Forster
 ==================================
 
-Aerospace Engineering Student @ Exeter College
+Engineering Student @ Exeter College
 -------------------------------------------
 
 
-* ✉️ You can reach me at [benf81548@gmail.com](mailto:benf81548@gmail.com)
+* ✉️ You can reach me at [bj.forster@protonmail.com](mailto:bj.forster@protonmail.com)
 
 ### Languages
 <p align="left">
